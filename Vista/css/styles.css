@@ -1,0 +1,19 @@
+.img-news{
+    width: 500px;
+}
+
+.title-section{
+    margin-top: 40px;
+}
+
+.resize{
+    resize: none;
+}
+
+.large{
+    width: 100%;
+}
+.img-success{
+    width: 100%;
+    height: auto;
+}
